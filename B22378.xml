@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order made by the House of Commons assembled in Parliament for the establishing of preaching lecturers thoughout the kingdome of England and dominion of Wales : whereunto is added thirty five considerations upon the Booke of common prayer ... : with sexe reasons why the Booke of common prayer being corrected should continue : also an order by the Lords and Commons in Parliament touching the government and liturgie of the church.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22378</idno><idno type="EEBO-CITATION">10285375</idno>
+  <idno type="VID">204653</idno>
+  <idno type="EEBO-PROQUEST">2240949013</idno>
+  
+            <idno type="STC">Wing E2641</idno>
+            <idno type="OCLC">10285375</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order made by the House of Commons assembled in Parliament for the establishing of preaching lecturers thoughout the kingdome of England and dominion of Wales : whereunto is added thirty five considerations upon the Booke of common prayer ... : with sexe reasons why the Booke of common prayer being corrected should continue : also an order by the Lords and Commons in Parliament touching the government and liturgie of the church.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Hen. Elsyng Cle. Parl. D. C.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ecclesiastical law --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204653:1"/>
+            <pb facs="tcp:204653:1"/>
+            <p> AN ORDER MADE BY THE House of Commons, Assembled in Parliament, for the Establishing of Preaching Le<g ref="char:EOLhyphen"/>cturers throughout the Kingdome of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is added,</hi> Thirty five considerations upon the Booke of Common Prayer, at a conference held by the Archbishop of <hi>Armagh,</hi> Doctor <hi>Pri<g ref="char:EOLhyphen"/>deaux,</hi> and divers other Learned Divines.</p>
+            <p>With sixe Reasons why the Booke of Common Prayer being corrected should continue.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Also an Order by the Lords and Commons in Parliament, touching the Governement and Liturgie of the Church.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>Hen. Elsyng Cle. Parl. D.</hi> C</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>May</hi> 30. <hi>London,</hi> Printed for <hi>I. T.</hi> 1642.</p>
+            <pb facs="tcp:204653:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_license">
+            <pb facs="tcp:204653:2"/>
+            <head>❧ An Order made by the House of Commons, for preach<g ref="char:EOLhyphen"/>ing Lecturers in this Kingdome.</head>
+            <p>IT is Ordered by the House of Commons now As<g ref="char:EOLhyphen"/>sembled in Parliament, that it shall be Lawfull for the Parishioners of any Parish within the King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> and <hi>Wales,</hi> to set up a Lecture, and to maintaine an Orthodox Minister, at their owne charge, to Preach every <hi>Lords day,</hi> where there is no Preaching: And to Preach one day in every weeke, where there is no weekely Lecture.</p>
+            <closer>
+               <signed>Hen. Elsynge. Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>Considerations upon the Booke of Common Prayer.</head>
+            <p n="1">1. VVHether the names of some <hi>d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>parted Saints,</hi> and others should not be quite expugned the Ca<g ref="char:EOLhyphen"/>lender.</p>
+            <p n="2">2. Whether the reading of Psalmes, sentences of Scripture concurring in divers places in the <hi>Hymnes, E<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ist<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</hi> and <hi>Gospels,</hi> should not bee set out in the new translation.</p>
+            <p n="3">3 Whether the Rubrique should not bee mended, where all westments in them of divine Service are now commanded which were used. 2. <hi>Ed.</hi> 6.</p>
+            <p n="4">
+               <pb n="4" facs="tcp:204653:3"/> 4. Whether Lessons of Canonicall Scripture should be put into the Calender in stead of Apocrypha.</p>
+            <p n="5">5. That the <hi>Doxologie</hi> should be alwaies printed at the end of the Lords Prayer, and bee alwaies said by the Minister.</p>
+            <p n="6">6. Whether the Rubrique may not be mended, where it is (that the Lessons should bee sung in a plaine tune) why not (read with a distinct voyce.)</p>
+            <p n="7">7. Whether <hi>Gloria Patri</hi> should bee repeated at the end of every Psalme.</p>
+            <p n="8">8. Whether according to that end of the Preface be<g ref="char:EOLhyphen"/>fore the Common Prayer, the Curate should be bound to read Morning and Evening Prayers every day in the Church, if he beat home, and not reasonably letted, <hi>and why not onely on Wednesday,</hi> and friday morning, and in the afternoone on Saterdaies, with holiday eves.</p>
+            <p n="9">9. Whether the <hi>Hymnes, Benedicite omnia opera, &amp;c.</hi> may not be left out.</p>
+            <p n="10">10. In the Prayer for the Clergie, that phrase per<g ref="char:EOLhyphen"/>haps to be altored <hi>(which onely worketh great marvells.)</hi>
+            </p>
+            <p n="11">11. In the Rubrique for the Administration of the Lords Supper whether this alteration to be made, that such as intend to communicate shall signifi their names to the Curate overnight or in the morning before prayer.</p>
+            <p n="12">12. The next Rubrique to bee cleared, how farre a Minister may repulse a scandalous and notorious sinner from the Communion.</p>
+            <p n="13">13 Whether the Rubrique is not to bee mended, where the Churchwardens are straightly appointed to gather the almes for the poore before the Communi<g ref="char:EOLhyphen"/>on begin, for by experience it is proved to bee done better when the people depart.</p>
+            <p n="14">
+               <pb n="5" facs="tcp:204653:3"/> 14 Whether the Rubrique is not to be mended, concering the party that is to make his generall con<g ref="char:EOLhyphen"/>fession upon his knees before the Communion, that it should bee said only by the Minister, and then at e<g ref="char:EOLhyphen"/>very clause repeated to the people.</p>
+            <p n="15">15 These words in the Consecration <hi>This is my body, this is my blood of the New Testament,</hi> not to be printed hereafter in great Letters.</p>
+            <p n="16">16 Whether it will not be fit to inserta Rubrique touching kneelling at the Communion, that is, to com<g ref="char:EOLhyphen"/>ply in all humility with the prayer which the Minister makes, when he delivers the Element.</p>
+            <p n="17">17 Whether <hi>Cathedrall and Colegiate</hi> Churches shall be straitly bound to celebrate the holy Communion e<g ref="char:EOLhyphen"/>very Sunday at the least, and might not it rather be ad<g ref="char:EOLhyphen"/>ded rather <hi>once in a moneth.</hi>
+            </p>
+            <p n="18">18 In the last Rubrique touching the Communion, is it not fit that the Printer make a full point, and begin with a new great letter at these words. <hi>And every Pa<g ref="char:EOLhyphen"/>rishioner shall also receive the Sacraments.</hi>
+            </p>
+            <p n="19">19 Whether in the first prayer at the baptisme, these words, <hi>Didst sanctifie the flood Iordan, and allother waters,</hi> should not be thus changed. <hi>Didst sanctifie the Element of water.</hi>
+            </p>
+            <p n="20">20 Whether it be not fit to have some discreete Ru<g ref="char:EOLhyphen"/>brique made to take away all scandall from signifiing the signe of the Crosse upon the Infants after baptisme, or if it shall seeme more expedient, to be quite disused, whether this reason should be published, that in antient Liturgies <hi>no Crosse was consigned upon the partie,</hi> but where Oyle also was used, and therefore Oyle being now o<g ref="char:EOLhyphen"/>mitted, so may also that which was <hi>concomitant</hi> with it, <hi>the signe of the Crosse.</hi>
+            </p>
+            <p n="21">
+               <pb n="6" facs="tcp:204653:4"/> 21. In private Baptisme, the Rubrique mentions that which must not bee done, <hi>that the Minister may dip the child in wat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r being at the point of death.</hi>
+            </p>
+            <p n="22">22. Whether in the last rubrique of confirmation those words be to be left out <hi>(and be undoubtedly saved.)</hi>
+            </p>
+            <p n="23">23. Whether the Catechisme may not receive a lit<g ref="char:EOLhyphen"/>tle more enlargement.</p>
+            <p n="24">24. Whether the times prohibited for marriage are quite to be taken away</p>
+            <p n="25">25. Whether none hereafter shall have licences to marry, nor be asked their banes of Matrimony, that shall not bring with them a certificate from their Ministers that they are <hi>instructed in their Catechisme.</hi>
+            </p>
+            <p n="26">26. Whether these words in Matrimony, <hi>(With my body I thee worship)</hi> shall not not be thus altered, <hi>(I give thee power over my body.</hi>
+            </p>
+            <p n="27">27. Whether the rubrique of marriage should not bee mended, that new married persons should receive the Communion the same day of their marriage, may it not well be <hi>or upon the next</hi> Sunday following when the Communion is celebrated.</p>
+            <p n="28">28. In the absolution of the sicke, were it not plaine to say, <hi>I pronounce thee absolved.</hi>
+            </p>
+            <p n="29">29. The <hi>Psalmes of thankesgiving</hi> of woman after Child birth, were it not fit to be composed out of pro<g ref="char:EOLhyphen"/>per <hi>Versi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l's</hi> taken from divers Psalmes.</p>
+            <p n="30">30 May not the Priest rather reade the <hi>Communion</hi> in the D<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sk<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, then goe up to the pulpit.</p>
+            <p n="31">31 The publique in the <hi>Communion</hi> leaves it doubt<g ref="char:EOLhyphen"/>full, whether the <hi>Letany</hi> may not be read in divers place in the Church.</p>
+            <p n="32">32 In the order of the buriall of all persons, 'tis said, <hi>We commit his body to the ground, in sure and certaine hope</hi>
+               <pb n="7" facs="tcp:204653:4"/>
+               <hi>of resurrection to eternall life.</hi> Why not thus, <hi>knowing as<g ref="char:EOLhyphen"/>suredly, that the dead shall rise againe.</hi>
+            </p>
+            <p n="33">33. In the Collect, next unto the Collect against the Pestilence, the clause perhaps to be mended, <hi>for the ho<g ref="char:EOLhyphen"/>nour of Christs sake.</hi>
+            </p>
+            <p n="34">34. In the Let any instead of <hi>fornication and other dead<g ref="char:EOLhyphen"/>lie sinnes,</hi> would it not satisfie thus? <hi>from fornication and all other grievous sinnes.</hi>
+            </p>
+            <p n="35">35. It is very fit, that the imperfections of the matter of the singing Psalmes should be mended, and then law<g ref="char:EOLhyphen"/>full authority added unto them, to have them publikely sung before and after Sermons, and sometimes in stead of Hymns of morning and evening prayer.</p>
+         </div>
+         <div type="text">
+            <head>Certaine reasons why the Booke of Common Prayer beeing Corrected should Continue.</head>
+            <p n="1">1 Because it was composed and approved of godly reformed professors and Martyrs; and reverently used and frequented by devout Protestants, in the times of religious Princes, the happy Instruments and prono<g ref="char:EOLhyphen"/>gators of the true reformed religion.</p>
+            <p n="2">2 Because they have beene at severall times Enacted and Established as lawes of the Land in the times of most religious and and reformed Princes.</p>
+            <p n="3">3 Because that, which gives the offence therein is most Master of Faith and Salvation, but discipline, and the Ceremonies of the Church.</p>
+            <p n="4">4 Because they have endured opposition, And the greatest number of the opposers have beene either weake and Ignorant Christians, mis▪led and misinfor<g ref="char:EOLhyphen"/>med, or perverse, seditious, and inconformable to the established Government.</p>
+            <p n="5">
+               <pb n="8" facs="tcp:204653:5"/> 5 Because the oppositions have beene divers times fully answered by learned and Religious Protestants, but especially so fully determined in a conference on mature deliberation, by our late Renowned King <hi>Iames</hi> of blessed memory.</p>
+            <p n="6">6 Lastly because they are and have beene so Com<g ref="char:EOLhyphen"/>mon passengers amongst us.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <head>An Order by the Lords and Commons in Parliament touching the Government and Liturgie of the Church.</head>
+            <p>THe Lords and Commons doe declare, they intend a due and necessary reformation of the Govern<g ref="char:EOLhyphen"/>ment and Litturgie of the Church, and to take away nothing in the one or the other, but what shall be Evill, and iustly offensive, or at least unnecessary and burthen<g ref="char:EOLhyphen"/>some, and for the better effecting hereof, speedily to have consultation with godly and learned Divines, and because this will never of itt selfe attaine the end sought therein, they will therefore use their utmost endeavours to establish Learned and Preaching Ministers, with a good and sufficient maintenance throughout the whole kingdome, wherein many darke corners are miserably destitute of the meanes of salvation, and many poore Ministers want necessary provision.</p>
+            <closer>
+               <signed>Hen. Elsyng Cle. Parl. D. C.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204653:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
